@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace LenguajesVisualesII.Api.Controllers;
-
+ 
 [ApiController]
 [Route("api/[controller]")]
 public class ArchivosController : ControllerBase
